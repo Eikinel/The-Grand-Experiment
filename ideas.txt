@@ -1,0 +1,36 @@
+IDEES GLOBALES:
+- Pop dans une salle avec une expérience chelou
+- Trouver les indices nécessaires à ce qu'est réellement l'expérience
+- Choisir de la réaliser ou de la détruire
+
+
+STYLE DE JEU:
+- Vue "FPS" : on ne voit que le décor et on peut intéragir avec
+- Curseur qui change si on passe la souris sur un élément
+   \_ Menu déroulant avec clic droit, action de base avec clic gauche (examiner)
+- Certaines actions sont irréparables (casser, activer, etc...)
+
+
+LE JEU:
+-> Pourquoi est-on là ? : parce qu'on vie dans ce labo depuis des années, sans avoir jamais pu sortir (tout est artificiel, même le "dehors")
+-> Qui est-on ? tu es toi-même une expérience (on peut le savoir si on trouve les bonnes infos)
+-> Que dois-t-on faire ? découvrir des indices diséminés un peu partout.
+-> Quels endroits pour les indices ? Un placard, un bureau avec des tiroirs, des documents, un placard fermé à clef, une lampe qui marche mal, peut devenir une lampe à UV, un tableau de bord avec des punaises, des dalles mal mises sur le faux plafond, ...
+
+LES DIFFERENTES FINS:
+- Sans avoir rien trouvé ou presque
+   \_ DESTRUCTION : destruction à main nue, le perso se défonce la main (handicap), l'alarme se déclanche, phase de jeu dans le couloir mais tu te fais toujours rattraper et les scientifiques t'enferment. L'écran reste figé sur toi en tant qu'expérience dans une substance et une autre personne qui à son tour détruit le tube dans lequel tu es.
+   \_ CONTINUATION : tu créer le projet, tu te rates car tu n'as aucune connaissance du projet. Cela créer une substance avec une odeur ennivrante. Tellement ennivrante que tu en deviens fou. Ta tête se décompose. Pour la première fois on voit le personnage, tu te diriges vers la caméra et dit "L'ignorance, c'est la meilleure des armes. Le Renouveau peut commencer." - Bruit de fond de mort, etc.
+
+- En ayant trouvé une partie du projet:
+   \_ DESTRUCTION : tu coupes l'alarme, tu détruits proprement le tube et jète la substance supposée sans vie. 
+   \_ CONTINUATION : tu poursuis la création de la chimère et elle prend vie. Tu détruits le tube (un éclat de verre se loge dans la chimère) et fait sortir la créature. Elle te confie tout entendre et tout connaître.
+
+- En ayant trouvé 100% du projet:
+   \_ DESTRUCTION : tu coupes l'alarme, tu détruits proprement le tube et asperge l'embryon de la substance créée par synthèse (eau + ether + acide gallique [encre]). Mais tu sais que ce n'est pas la seule expérience dans ce cas. Tu fais pareil pour toutes les expériences des autres salles. Tu trouves des scientifiques, ils t'expliquent la situation, pourquoi tu vies et que faisaient les autres expériences. Tu tues également les scientifiques après la révélation, et part mourir plus loin, avec la même substance que tu as synthétisé au départ.
+   \_ CONTINUATION : tu poursuis la création de la chimère et elle prend vie. Tu vides proprement le tube et fait sortir la créature. Elle te confie tout entendre et tout connaître. Tu découvres que les scientifiques faisaient ça pour faire survivre la race humaine de la surface, là où l'humain a tué toute forme de vie, y comprit lui-même. L'expérience est censé devenir un être sans haine, compréhensif et adapté à la vie de n'importe quelle société. Tu en fais parti. Votre mission est de détuire les représentants de la race humaine restante, dont les scientifiques. Vous vous y appliquez, et bâtissez une nouvelle ère, sur un monde désolé.
+   
+
+IDEES RANDOM:
+-> Jauge de faim/soif qui t'oblige à finir dans un temps imparti.
+    \_ Peut synthétiser de l'eau et de la nourriture avec les outils, si on a les connaissances
